@@ -1,1 +1,1 @@
-Todo list to remind things.
+Base on mongodb flask wtf created Todo app. 
